@@ -1,4 +1,5 @@
 //+------------------------------------------------------------------+
+//|                                                Quantum Minimax EA|
 //|                                                      reverse.mq5 |
 //|                                       Copyright 2018, Nohros Inc |
 //|                                           https://www.nohros.com |
